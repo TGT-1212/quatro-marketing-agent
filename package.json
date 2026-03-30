@@ -1,0 +1,9 @@
+{
+  "name": "quatro-marketing-agent",
+  "version": "1.0.0",
+  "description": "Quatro Climate AI Marketing Agent",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
